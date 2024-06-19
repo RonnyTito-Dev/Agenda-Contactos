@@ -13,7 +13,7 @@ Este es un proyecto de sistema de agenda de contactos que permite a los usuarios
 - :file_folder: **Organización por grupos:** Crear, leer, actualizar y eliminar (cambiar el estado) de los grupos.
 - :lock: **Autenticación:** Registro e inicio de sesión para usuarios.
 - :date: **Registro de actividad del usuario:** Fecha de registro, última sesión, último cierre de sesión y timpo de sesión (almacenado en DB).
-- :mag: **Busqueda y filtrado:** Búsqueda de contactos y grupos, tambien filtrado por grupos.
+- :mag: **Búsqueda y filtrado:** Búsqueda de contactos y grupos, tambien filtrado por grupos.
 - :bar_chart: **Interfaz amigable:** Diseño intuitivo y facil de usar.
 
 <br>
