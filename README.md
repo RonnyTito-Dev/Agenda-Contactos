@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # :ledger: Agenda de Contactos- CRUD
 
 ![Portada Proyecto](https://i.ibb.co/bgWzVSg/CRUD-Agenda-Contactos.png)
@@ -115,7 +114,3 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 ---
 *¡Gracias por visitar!*
-=======
-# Agenda-Contactos
-Agenda de contactos
->>>>>>> 177f7bd35ee93eccea906a6139202c3ffd2fd327
