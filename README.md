@@ -108,7 +108,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 <br>
 
 ## Contacto
-<a href="mailto:ronnycito.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
+<a href="mailto:ronnytito.dev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
 <a href="https://www.linkedin.com/in/ronnytito" target="_blank" ><img src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href="https://x.com/RonnyTito_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter"></a>
 
