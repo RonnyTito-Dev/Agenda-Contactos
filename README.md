@@ -1,6 +1,6 @@
 # :ledger: Agenda de Contactos- CRUD
 
-![Portada Proyecto](https://i.ibb.co/bgWzVSg/CRUD-Agenda-Contactos.png)
+![Portada Proyecto](https://i.postimg.cc/9fdgHjfR/CRUD-Agenda-Contactos.png)
 
 
 ## Descripcion del Proyecto
@@ -95,15 +95,15 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 <br>
 
 ## Capturas de Pantalla
-![Página Home](https://i.ibb.co/4Rvm3jg/Home.png)
+![Página Home](https://i.postimg.cc/8cKnXBzZ/Home.png)
 
-![Página de registro](https://i.ibb.co/tmtp2V5/Registro.png)
+![Página de registro](https://i.postimg.cc/15XdnTv2/Registro.png)
 
-![Página de Inicio de Sesión](https://i.ibb.co/R3nxqd5/Inicio-Sesion.png)
+![Página de Inicio de Sesión](https://i.postimg.cc/8PY0hH35/Inicio-Sesion.png)
 
-![Página de DashBoard 1](https://i.ibb.co/s5Vrgsj/Dash-Board-1.png)
+![Página de DashBoard 1](https://i.postimg.cc/3rn6w7F2/Dash-Board-1.png)
 
-![Página de DashBoard 1](https://i.ibb.co/0rtzGcL/Dash-Board-1-2.png)
+![Página de DashBoard 1](https://i.postimg.cc/XYyDx5Sg/Dash-Board-1-2.png)
 
 <br>
 
